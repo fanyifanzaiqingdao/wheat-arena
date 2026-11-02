@@ -1,0 +1,20 @@
+{
+  "index": 3,
+  "name": "庙宇天井",
+  "teleports": [
+    {
+      "id": "temple_left",
+      "x": 250,
+      "y": 370,
+      "link": "temple_right",
+      "label": "左廊"
+    },
+    {
+      "id": "temple_right",
+      "x": 1030,
+      "y": 370,
+      "link": "temple_left",
+      "label": "右廊"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "frame_size": 64,
+  "frames": 6,
+  "directions": [
+    "down",
+    "up",
+    "right",
+    "left"
+  ],
+  "actions": [
+    "idle",
+    "run",
+    "slash"
+  ],
+  "characters": [
+    {
+      "id": "tudou",
+      "name": "土豆",
+      "sheet": "res://assets/characters/tudou/sheet.png",
+      "portrait": "res://assets/characters/tudou/portrait.png",
+      "hit_sheet": "res://assets/characters/tudou/hit_down_sheet.png",
+      "poses": {
+        "idle": {
+          "frames": 4,
+          "fps": 5
+        },
+        "run": {
+          "frames": 4,
+          "fps": 11
+        },
+        "slash": {
+          "frames": 4,
+          "fps": 14
+        },
+        "hit": {
+          "frames": 4,
+          "fps": 10
+        },
+        "down": {
+          "frames": 4,
+          "fps": 6
+        }
+      }
+    },
+    {
+      "id": "fanqie",
+      "name": "番茄",
+      "sheet": "res://assets/characters/fanqie/sheet.png",
+      "portrait": "res://assets/characters/fanqie/portrait.png",
+      "hit_sheet": "res://assets/characters/fanqie/hit_down_sheet.png",
+      "poses": {
+        "idle": {
+          "frames": 4,
+          "fps": 5
+        },
+        "run": {
+          "frames": 4,
+          "fps": 11
+        },
+        "slash": {
+          "frames": 4,
+          "fps": 14
+        },
+        "hit": {
+          "frames": 4,
+          "fps": 10
+        },
+        "down": {
+          "frames": 4,
+          "fps": 6
+        }
+      }
+    },
+    {
+      "id": "mangguo",
+      "name": "芒果",
+      "sheet": "res://assets/characters/mangguo/sheet.png",
+      "portrait": "res://assets/characters/mangguo/portrait.png",
+      "hit_sheet": "res://assets/characters/mangguo/hit_down_sheet.png",
+      "poses": {
+        "idle": {
+          "frames": 4,
+          "fps": 5
+        },
+        "run": {
+          "frames": 4,
+          "fps": 11
+        },
+        "slash": {
+          "frames": 4,
+          "fps": 14
+        },
+        "hit": {
+          "frames": 4,
+          "fps": 10
+        },
+        "down": {
+          "frames": 4,
+          "fps": 6
+        }
+      }
+    },
+    {
+      "id": "huluobo",
+      "name": "胡萝卜",
+      "sheet": "res://assets/characters/huluobo/sheet.png",
+      "portrait": "res://assets/characters/huluobo/portrait.png",
+      "hit_sheet": "res://assets/characters/huluobo/hit_down_sheet.png",
+      "poses": {
+        "idle": {
+          "frames": 4,
+          "fps": 5
+        },
+        "run": {
+          "frames": 4,
+          "fps": 11
+        },
+        "slash": {
+          "frames": 4,
+          "fps": 14
+        },
+        "hit": {
+          "frames": 4,
+          "fps": 10
+        },
+        "down": {
+          "frames": 4,
+          "fps": 6
+        }
+      }
+    },
+    {
+      "id": "kuihuazi",
+      "name": "葵花籽",
+      "sheet": "res://assets/characters/kuihuazi/sheet.png",
+      "portrait": "res://assets/characters/kuihuazi/portrait.png",
+      "hit_sheet": "res://assets/characters/kuihuazi/hit_down_sheet.png",
+      "poses": {
+        "idle": {
+          "frames": 4,
+          "fps": 5
+        },
+        "run": {
+          "frames": 4,
+          "fps": 11
+        },
+        "slash": {
+          "frames": 4,
+          "fps": 14
+        },
+        "hit": {
+          "frames": 4,
+          "fps": 10
+        },
+        "down": {
+          "frames": 4,
+          "fps": 6
+        }
+      }
+    },
+    {
+      "id": "dianfanbao",
+      "name": "电饭煲",
+      "sheet": "res://assets/characters/dianfanbao/sheet.png",
+      "portrait": "res://assets/characters/dianfanbao/portrait.png",
+      "hit_sheet": "res://assets/characters/dianfanbao/hit_down_sheet.png",
+      "poses": {
+        "idle": {
+          "frames": 4,
+          "fps": 5
+        },
+        "run": {
+          "frames": 4,
+          "fps": 11
+        },
+        "slash": {
+          "frames": 4,
+          "fps": 14
+        },
+        "hit": {
+          "frames": 4,
+          "fps": 10
+        },
+        "down": {
+          "frames": 4,
+          "fps": 6
+        }
+      }
+    },
+    {
+      "id": "qinghe",
+      "name": "青禾",
+      "sheet": "res://assets/characters/qinghe/sheet.png",
+      "portrait": "res://assets/characters/qinghe/portrait.png"
+    },
+    {
+      "id": "chilian",
+      "name": "赤镰",
+      "sheet": "res://assets/characters/chilian/sheet.png",
+      "portrait": "res://assets/characters/chilian/portrait.png"
+    },
+    {
+      "id": "wanxia",
+      "name": "晚霞",
+      "sheet": "res://assets/characters/wanxia/sheet.png",
+      "portrait": "res://assets/characters/wanxia/portrait.png"
+    },
+    {
+      "id": "mosui",
+      "name": "墨穗",
+      "sheet": "res://assets/characters/mosui/sheet.png",
+      "portrait": "res://assets/characters/mosui/portrait.png"
+    },
+    {
+      "id": "zhuye",
+      "name": "竹叶",
+      "sheet": "res://assets/characters/zhuye/sheet.png",
+      "portrait": "res://assets/characters/zhuye/portrait.png"
+    },
+    {
+      "id": "shuangmai",
+      "name": "霜麦",
+      "sheet": "res://assets/characters/shuangmai/sheet.png",
+      "portrait": "res://assets/characters/shuangmai/portrait.png"
+    },
+    {
+      "id": "jinli",
+      "name": "金粒",
+      "sheet": "res://assets/characters/jinli/sheet.png",
+      "portrait": "res://assets/characters/jinli/portrait.png"
+    },
+    {
+      "id": "lanting",
+      "name": "兰庭",
+      "sheet": "res://assets/characters/lanting/sheet.png",
+      "portrait": "res://assets/characters/lanting/portrait.png"
+    },
+    {
+      "id": "hongdou",
+      "name": "红豆",
+      "sheet": "res://assets/characters/hongdou/sheet.png",
+      "portrait": "res://assets/characters/hongdou/portrait.png"
+    },
+    {
+      "id": "heiyan",
+      "name": "黑岩",
+      "sheet": "res://assets/characters/heiyan/sheet.png",
+      "portrait": "res://assets/characters/heiyan/portrait.png"
+    },
+    {
+      "id": "baimian",
+      "name": "白面",
+      "sheet": "res://assets/characters/baimian/sheet.png",
+      "portrait": "res://assets/characters/baimian/portrait.png"
+    },
+    {
+      "id": "canglang",
+      "name": "苍浪",
+      "sheet": "res://assets/characters/canglang/sheet.png",
+      "portrait": "res://assets/characters/canglang/portrait.png"
+    }
+  ]
+}

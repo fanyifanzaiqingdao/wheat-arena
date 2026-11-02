@@ -1,0 +1,15 @@
+# Godot 4+
+.godot/
+
+# OS
+.DS_Store
+**/.DS_Store
+
+# Exports
+export/
+*.apk
+*.aab
+*.ipa
+*.exe
+*.pck
+*.zip

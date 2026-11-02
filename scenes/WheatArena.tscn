@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dw5f14puyyypy"]
+
+[ext_resource type="Script" uid="uid://beblxu1d1jelw" path="res://scripts/WheatArena.gd" id="1"]
+
+[node name="WheatArena" type="Node2D" unique_id=1402618251]
+script = ExtResource("1")

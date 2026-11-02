@@ -1,0 +1,20 @@
+{
+  "index": 1,
+  "name": "丛林伏击",
+  "teleports": [
+    {
+      "id": "jungle_west",
+      "x": 210,
+      "y": 250,
+      "link": "jungle_east",
+      "label": "西林"
+    },
+    {
+      "id": "jungle_east",
+      "x": 1070,
+      "y": 250,
+      "link": "jungle_west",
+      "label": "东林"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "index": 4,
+  "name": "断桥急流",
+  "teleports": [
+    {
+      "id": "bridge_left",
+      "x": 200,
+      "y": 250,
+      "link": "bridge_right",
+      "label": "左岸"
+    },
+    {
+      "id": "bridge_right",
+      "x": 1080,
+      "y": 450,
+      "link": "bridge_left",
+      "label": "右岸"
+    }
+  ]
+}
